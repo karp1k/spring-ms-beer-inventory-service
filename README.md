@@ -1,0 +1,1 @@
+# spring-ms-beer-inventory service
