@@ -2,6 +2,6 @@
 
 related repo's: 
 
-https://github.com/karp1k/spring-ms-beer-order-service
+[beer-order-service](https://github.com/karp1k/spring-ms-beer-order-service)
 
-https://github.com/karp1k/spring-ms-beer-service
+[beer-service](https://github.com/karp1k/spring-ms-beer-service)
