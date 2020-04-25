@@ -16,12 +16,12 @@ import java.util.UUID;
 @RequiredArgsConstructor
 @Component
 public class BeerInvntoryBootstrap implements CommandLineRunner {
-    public static final String BEER_1_UPC = "0631234200036";
-    public static final String BEER_2_UPC = "0631234300019";
-    public static final String BEER_3_UPC = "0083783375213";
-    public static final UUID BEER_1_UUID = UUID.fromString("0a818933-087d-47f2-ad83-2f986ed087eb");
-    public static final UUID BEER_2_UUID = UUID.fromString("a712d914-61ea-4623-8bd0-32c0f6545bfd");
-    public static final UUID BEER_3_UUID = UUID.fromString("026cc3c8-3a0c-4083-a05b-e908048c1b08");
+    public static final String BEER_1_UPC = "018200533082";
+    public static final String BEER_2_UPC = "18200007712";
+    public static final String BEER_3_UPC = "018200113529";
+    public static final UUID BEER_1_UUID = UUID.fromString("fba04b35-ad91-4c95-8fea-63202d82f69a");
+    public static final UUID BEER_2_UUID = UUID.fromString("a4e9bc4b-75cb-4d1f-b36d-604d60d472db");
+    public static final UUID BEER_3_UUID = UUID.fromString("84c8a160-ccd6-4779-9346-3fb94c77ebd1");
 
     private final BeerInventoryRepository beerInventoryRepository;
 
